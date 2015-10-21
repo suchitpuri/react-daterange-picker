@@ -53,6 +53,8 @@
     "object.assign": "^1.1.1",
     "timekeeper": "0.0.5",
     "transform-loader": "^0.2.1",
-    "webpack": "^1.5.3"
+    "webpack": "^1.5.3",
+    "react": ">=0.12.0"
+
   }
 }
